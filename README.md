@@ -3,7 +3,7 @@ A to-do list is a list of things that need to be completed. Items on a to-do lis
 
 ## Features : 
 ### 1. Edit/Delete functionality
-### 2. Voice Recognition 
+### 2. Voice Recognition                     [ Use supported Browser, like Chrome ]
 ### 3. Clear in one tap 
 
 ## Demo : 
